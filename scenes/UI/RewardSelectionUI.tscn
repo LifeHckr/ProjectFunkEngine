@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://c6icx2yriud6y"]
 
-[ext_resource type="Script" path="res://scenes/UI/scripts/RewardSelect.cs" id="1_1m6an"]
+[ext_resource type="Script" uid="uid://cdc0uy5mxbff7" path="res://scenes/UI/scripts/RewardSelect.cs" id="1_1m6an"]
 
 [node name="CanvasLayer" type="CanvasLayer" node_paths=PackedStringArray("ButtonContainer", "_description", "_acceptButton", "_skipButton")]
 process_mode = 2

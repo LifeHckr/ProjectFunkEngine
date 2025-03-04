@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://cwm0n2wu851nx"]
 
-[ext_resource type="Script" path="res://scenes/Puppets/scripts/PuppetTemplate.cs" id="1_kgmh0"]
+[ext_resource type="Script" uid="uid://s5656v5wvejk" path="res://scenes/Puppets/scripts/PuppetTemplate.cs" id="1_kgmh0"]
 [ext_resource type="PackedScene" uid="uid://bgomxovxs7sr8" path="res://scenes/Puppets/HealthBar.tscn" id="1_sxlrs"]
 
 [node name="EnemPuppet" type="Node2D" node_paths=PackedStringArray("_healthBar", "Sprite")]

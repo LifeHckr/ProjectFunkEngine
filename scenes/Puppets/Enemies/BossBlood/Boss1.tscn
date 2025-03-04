@@ -1,6 +1,6 @@
 [gd_scene load_steps=8 format=3 uid="uid://bi5iqbwpsd381"]
 
-[ext_resource type="Script" path="res://scenes/Puppets/Enemies/BossBlood/P_BossBlood.cs" id="1_qj2oj"]
+[ext_resource type="Script" uid="uid://ck4a24uaswvs0" path="res://scenes/Puppets/Enemies/BossBlood/P_BossBlood.cs" id="1_qj2oj"]
 [ext_resource type="Texture2D" uid="uid://veedngaorx3l" path="res://scenes/BattleDirector/assets/Enemy1.png" id="2_mul30"]
 [ext_resource type="Texture2D" uid="uid://b2iptr3o8rg4t" path="res://scenes/Puppets/Enemies/BossBlood/assets/Boss1EmissionShape.tres" id="3_yxnso"]
 [ext_resource type="PackedScene" uid="uid://bgomxovxs7sr8" path="res://scenes/Puppets/HealthBar.tscn" id="4_ffkxf"]

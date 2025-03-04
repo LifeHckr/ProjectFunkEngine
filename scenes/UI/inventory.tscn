@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://be6fb2sr5i515"]
 
-[ext_resource type="Script" path="res://scenes/UI/scripts/Inventory.cs" id="1_8rcwd"]
+[ext_resource type="Script" uid="uid://cgghklibulneh" path="res://scenes/UI/scripts/Inventory.cs" id="1_8rcwd"]
 
 [node name="Inventory" type="Control" node_paths=PackedStringArray("Relics", "Notes", "Description", "Tabs")]
 process_mode = 2

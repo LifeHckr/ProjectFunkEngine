@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://eus17omen6yk"]
 
-[ext_resource type="Script" path="res://scenes/Puppets/scripts/PlayerPuppet.cs" id="1_f4rea"]
+[ext_resource type="Script" uid="uid://pw752cq2j2un" path="res://scenes/Puppets/scripts/PlayerPuppet.cs" id="1_f4rea"]
 [ext_resource type="Texture2D" uid="uid://b6fkei0i83vte" path="res://scenes/BattleDirector/assets/Character1.png" id="2_affso"]
 [ext_resource type="PackedScene" uid="uid://bgomxovxs7sr8" path="res://scenes/Puppets/HealthBar.tscn" id="3_rechw"]
 

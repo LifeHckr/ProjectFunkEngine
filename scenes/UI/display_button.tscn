@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cymo26khpw4m1"]
 
-[ext_resource type="Script" path="res://scenes/UI/scripts/DisplayButton.cs" id="1_7lpm6"]
+[ext_resource type="Script" uid="uid://dheu0cx5sh8jy" path="res://scenes/UI/scripts/DisplayButton.cs" id="1_7lpm6"]
 
 [node name="DisplayButton" type="Button"]
 anchors_preset = 15

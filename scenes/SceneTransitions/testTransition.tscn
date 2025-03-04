@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://dbeplni2du158"]
 
-[ext_resource type="Script" path="res://scenes/SceneTransitions/scripts/SceneChange.cs" id="1_n6d5u"]
+[ext_resource type="Script" uid="uid://cfwhibtn7yada" path="res://scenes/SceneTransitions/scripts/SceneChange.cs" id="1_n6d5u"]
 
 [node name="Control" type="Control"]
 layout_mode = 3

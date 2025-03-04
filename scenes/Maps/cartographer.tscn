@@ -1,8 +1,8 @@
 [gd_scene load_steps=5 format=3 uid="uid://cydmo2lbnj1de"]
 
-[ext_resource type="Script" path="res://scenes/Maps/scripts/Cartographer.cs" id="1_u4q3n"]
+[ext_resource type="Script" uid="uid://i6jqqnvdvunc" path="res://scenes/Maps/scripts/Cartographer.cs" id="1_u4q3n"]
 [ext_resource type="Texture2D" uid="uid://qhwve7fik4do" path="res://scenes/BattleDirector/assets/bgupdate.png" id="2_5g6at"]
-[ext_resource type="Script" path="res://scenes/UI/scripts/MenuModule.cs" id="2_cl7v0"]
+[ext_resource type="Script" uid="uid://rx3gwrkg210s" path="res://scenes/UI/scripts/MenuModule.cs" id="2_cl7v0"]
 [ext_resource type="Texture2D" uid="uid://cmc7gcplqnebx" path="res://scenes/Maps/assets/Player.png" id="3_qiprp"]
 
 [node name="Cartographer" type="Node2D" node_paths=PackedStringArray("PlayerSprite")]

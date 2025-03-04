@@ -20,7 +20,7 @@ void fragment() {
 		float r = rand(SCREEN_UV.xy);
 		color = r * (0.85 * sin((TIME * time_scale) * (r * 5.0) + 720.0 * r) + 0.95);
 	}
-	
+
     vec4 gradient_color = mix(bg_top_color, bg_bottom_color, SCREEN_UV.y / gradient_ratio);
 
     COLOR = vec4(vec3(color),1.0) + gradient_color;

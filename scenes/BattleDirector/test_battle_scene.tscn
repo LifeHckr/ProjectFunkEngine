@@ -1,9 +1,9 @@
 [gd_scene load_steps=10 format=3 uid="uid://b0mrgr7h0ty1y"]
 
-[ext_resource type="Script" path="res://scenes/BattleDirector/scripts/BattleDirector.cs" id="1_cwqqr"]
+[ext_resource type="Script" uid="uid://172hy4e0sjys" path="res://scenes/BattleDirector/scripts/BattleDirector.cs" id="1_cwqqr"]
 [ext_resource type="PackedScene" uid="uid://dfevfib11kou1" path="res://scenes/ChartViewport/ChartViewport.tscn" id="2_cupb3"]
-[ext_resource type="Script" path="res://scenes/BattleDirector/scripts/Conductor.cs" id="2_pcp76"]
-[ext_resource type="Script" path="res://scenes/UI/scripts/MenuModule.cs" id="3_8hff6"]
+[ext_resource type="Script" uid="uid://ddh43va8qp2dw" path="res://scenes/BattleDirector/scripts/Conductor.cs" id="2_pcp76"]
+[ext_resource type="Script" uid="uid://rx3gwrkg210s" path="res://scenes/UI/scripts/MenuModule.cs" id="3_8hff6"]
 [ext_resource type="Texture2D" uid="uid://qhwve7fik4do" path="res://scenes/BattleDirector/assets/bgupdate.png" id="4_13o87"]
 [ext_resource type="Texture2D" uid="uid://dbjotl0v1ymia" path="res://scenes/BattleDirector/assets/BattleFrame1.png" id="6_0ak0g"]
 [ext_resource type="PackedScene" uid="uid://duhiilcv4tat3" path="res://scenes/BattleDirector/NotePlacementBar.tscn" id="7_3ko4g"]

@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://hjho5n2f8rkf"]
 
-[ext_resource type="Script" path="res://scenes/UI/scripts/EndScreen.cs" id="1_37m3y"]
+[ext_resource type="Script" uid="uid://dr5asxwigl47a" path="res://scenes/UI/scripts/EndScreen.cs" id="1_37m3y"]
 
 [node name="CanvasLayer" type="CanvasLayer" node_paths=PackedStringArray("buttons", "TopLabel")]
 process_mode = 2

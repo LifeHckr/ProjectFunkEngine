@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://d1puw6fvmkrb5"]
 
-[ext_resource type="Script" path="res://scenes/Puppets/Enemies/TheGWS/P_TheGWS.cs" id="1_dlike"]
+[ext_resource type="Script" uid="uid://i2eqqw6nrvem" path="res://scenes/Puppets/Enemies/TheGWS/P_TheGWS.cs" id="1_dlike"]
 [ext_resource type="Texture2D" uid="uid://ci0a2h2eatjht" path="res://scenes/Puppets/Enemies/TheGWS/assets/GhostWolfSnake.png" id="2_77v4w"]
 [ext_resource type="PackedScene" uid="uid://bgomxovxs7sr8" path="res://scenes/Puppets/HealthBar.tscn" id="3_mr0it"]
 

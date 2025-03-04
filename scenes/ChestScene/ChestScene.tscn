@@ -1,9 +1,9 @@
 [gd_scene load_steps=9 format=3 uid="uid://c4vmb783d3v03"]
 
-[ext_resource type="Script" path="res://scenes/ChestScene/ChestScene.cs" id="1_ardd2"]
+[ext_resource type="Script" uid="uid://0g04gdam4x8q" path="res://scenes/ChestScene/ChestScene.cs" id="1_ardd2"]
 [ext_resource type="AudioStream" uid="uid://iq0xxe5cggs8" path="res://Audio/Song1.ogg" id="2_x78jo"]
-[ext_resource type="Script" path="res://scenes/UI/scripts/MenuModule.cs" id="3_5uvci"]
-[ext_resource type="Shader" path="res://scenes/ChartViewport/StarryNight.gdshader" id="5_whthd"]
+[ext_resource type="Script" uid="uid://rx3gwrkg210s" path="res://scenes/UI/scripts/MenuModule.cs" id="3_5uvci"]
+[ext_resource type="Shader" uid="uid://1yuf7j3e3pcf" path="res://scenes/ChartViewport/StarryNight.gdshader" id="5_whthd"]
 [ext_resource type="Texture2D" uid="uid://qhwve7fik4do" path="res://scenes/BattleDirector/assets/bgupdate.png" id="6_37nar"]
 [ext_resource type="Texture2D" uid="uid://d0ywqw1j1k71v" path="res://scenes/ChestScene/assets/Chest.png" id="6_58hf4"]
 [ext_resource type="Texture2D" uid="uid://dbjotl0v1ymia" path="res://scenes/BattleDirector/assets/BattleFrame1.png" id="7_kkck7"]

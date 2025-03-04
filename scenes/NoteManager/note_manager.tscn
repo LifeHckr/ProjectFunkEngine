@@ -1,8 +1,8 @@
 [gd_scene load_steps=7 format=3 uid="uid://bn8txx53xlguw"]
 
-[ext_resource type="Script" path="res://scenes/NoteManager/scripts/InputHandler.cs" id="1_2oeuf"]
+[ext_resource type="Script" uid="uid://bwkji6x32o82x" path="res://scenes/NoteManager/scripts/InputHandler.cs" id="1_2oeuf"]
 [ext_resource type="Texture2D" uid="uid://hfxynr5jdgsp" path="res://scenes/NoteManager/assets/new_arrow.png" id="2_pb1qk"]
-[ext_resource type="Script" path="res://scenes/NoteManager/scripts/NoteChecker.cs" id="3_0cioe"]
+[ext_resource type="Script" uid="uid://bk8te0dbf61tv" path="res://scenes/NoteManager/scripts/NoteChecker.cs" id="3_0cioe"]
 [ext_resource type="Texture2D" uid="uid://cgq2ar3pdmkac" path="res://scenes/NoteManager/assets/arrow_outline.png" id="4_3mttx"]
 [ext_resource type="Texture2D" uid="uid://b0tvsewgnf2x7" path="res://icon.svg" id="4_foklt"]
 [ext_resource type="PackedScene" uid="uid://bcf6vs4aqoxr5" path="res://scenes/ChartViewport/hit_particles.tscn" id="5_jv1tr"]

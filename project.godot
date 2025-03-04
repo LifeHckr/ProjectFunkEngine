@@ -12,7 +12,7 @@ config_version=5
 
 config/name="ProjectFunkEngine"
 run/main_scene="res://scenes/SceneTransitions/TitleScreen.tscn"
-config/features=PackedStringArray("4.3", "C#", "Forward Plus")
+config/features=PackedStringArray("4.4", "C#", "Forward Plus")
 config/icon="res://scenes/BattleDirector/assets/Character1.png"
 
 [autoload]

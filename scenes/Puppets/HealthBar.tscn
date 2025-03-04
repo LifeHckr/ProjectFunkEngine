@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://bgomxovxs7sr8"]
 
-[ext_resource type="Script" path="res://scenes/Puppets/scripts/HealthBar.cs" id="1_b1t4i"]
+[ext_resource type="Script" uid="uid://cxbwbdqinx0sh" path="res://scenes/Puppets/scripts/HealthBar.cs" id="1_b1t4i"]
 
 [sub_resource type="Gradient" id="Gradient_ve5ki"]
 colors = PackedColorArray(0, 0, 0, 1, 0, 0, 0, 1)

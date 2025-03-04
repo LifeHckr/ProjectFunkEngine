@@ -1,7 +1,7 @@
 [gd_scene load_steps=9 format=3 uid="uid://bew23sumjs0fg"]
 
-[ext_resource type="Script" path="res://scenes/Remapping/ControlSettings.cs" id="1_ir12b"]
-[ext_resource type="Script" path="res://scenes/SceneTransitions/scripts/SceneChange.cs" id="2_oippk"]
+[ext_resource type="Script" uid="uid://d62bohms43sv" path="res://scenes/Remapping/ControlSettings.cs" id="1_ir12b"]
+[ext_resource type="Script" uid="uid://cfwhibtn7yada" path="res://scenes/SceneTransitions/scripts/SceneChange.cs" id="2_oippk"]
 [ext_resource type="Texture2D" uid="uid://dbjotl0v1ymia" path="res://scenes/BattleDirector/assets/BattleFrame1.png" id="3_4uyjb"]
 [ext_resource type="Texture2D" uid="uid://xtygvpk7s8e4" path="res://scenes/NoteManager/assets/outline_white.png" id="4_se2m3"]
 [ext_resource type="Texture2D" uid="uid://cr6wtf6j6dcfg" path="res://scenes/Remapping/assets/Arrow_Left_Key_Light.png" id="5_xn13c"]

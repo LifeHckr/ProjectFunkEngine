@@ -1,10 +1,10 @@
 [gd_scene load_steps=7 format=3 uid="uid://dfevfib11kou1"]
 
-[ext_resource type="Script" path="res://scenes/ChartViewport/scripts/ChartManager.cs" id="1_ruh2l"]
+[ext_resource type="Script" uid="uid://b6p8wlt11lck2" path="res://scenes/ChartViewport/scripts/ChartManager.cs" id="1_ruh2l"]
 [ext_resource type="Texture2D" uid="uid://cp78odda2doab" path="res://scenes/ChartViewport/LoopMarker.png" id="2_q5cjc"]
-[ext_resource type="Script" path="res://scenes/ChartViewport/scripts/Loopable.cs" id="3_5u57h"]
+[ext_resource type="Script" uid="uid://sljomh3kwqpu" path="res://scenes/ChartViewport/scripts/Loopable.cs" id="3_5u57h"]
 [ext_resource type="PackedScene" uid="uid://bn8txx53xlguw" path="res://scenes/NoteManager/note_manager.tscn" id="4_fd5fw"]
-[ext_resource type="Shader" path="res://scenes/ChartViewport/StarryNight.gdshader" id="5_kqrxg"]
+[ext_resource type="Shader" uid="uid://1yuf7j3e3pcf" path="res://scenes/ChartViewport/StarryNight.gdshader" id="5_kqrxg"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_5uw0y"]
 shader = ExtResource("5_kqrxg")
